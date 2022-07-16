@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-func-component/static/css/main.073c9b0a.css",
+    "main.js": "/react-func-component/static/js/main.4e0e2aa8.js",
+    "static/js/787.5a55ca81.chunk.js": "/react-func-component/static/js/787.5a55ca81.chunk.js",
+    "index.html": "/react-func-component/index.html",
+    "main.073c9b0a.css.map": "/react-func-component/static/css/main.073c9b0a.css.map",
+    "main.4e0e2aa8.js.map": "/react-func-component/static/js/main.4e0e2aa8.js.map",
+    "787.5a55ca81.chunk.js.map": "/react-func-component/static/js/787.5a55ca81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4e0e2aa8.js"
+  ]
+}
